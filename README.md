@@ -86,3 +86,7 @@ This response is parsed in the code to extract:
 - All prompts and messages are in Turkish.
 - Thanks to OpenWeatherMap for providing free API.
 
+## Libraries Used
+
+- `requests` (Apache License 2.0)
+
