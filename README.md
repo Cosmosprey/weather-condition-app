@@ -5,7 +5,7 @@ The application also keeps track of previously queried cities.
 
 ---
 
-##Setup
+## Setup
 
 1. Sign up to [OpenWeatherMap](https://home.openweathermap.org/users/sign_up) to get your free API key.
 2. Open the code and enter your own API key:
@@ -16,7 +16,7 @@ The application also keeps track of previously queried cities.
 
 ---
 
-##Features
+## Features
 
 - Get current weather conditions by city name.
 - View a list of previously queried cities.
@@ -25,7 +25,7 @@ The application also keeps track of previously queried cities.
 
 ---
 
-##API Info
+## API Info
 
 This app uses the `/data/2.5/weather` endpoint from OpenWeatherMap.  
 Example query:
@@ -45,7 +45,7 @@ Useful resources:
 
 ---
 
-##Example API JSON Response
+## Example API JSON Response
 
 ```json
 {
@@ -74,12 +74,12 @@ This response is parsed in the code to extract:
 
 ---
 
-##Example Output using my own API key
+## Example Output using my own API key
 
 ![havadurumu_output](https://github.com/user-attachments/assets/05a5d589-fe08-42c0-be22-8255e8e03d5f)
 
 
-##Notes
+## Notes
 - This project was originally created in May and June 2024 as part of my "Algorithms and Programming II" course. Before uploading it to GitHub, the code was revised.
 - Assistance from various educational and programming-related sources was used during the development of this project, as part of the learning process.
 - This code was developed for educational purposes as part of a course project.
